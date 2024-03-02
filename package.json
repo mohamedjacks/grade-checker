@@ -1,0 +1,23 @@
+{
+  "name": "grade-checker-ab",
+  "version": "1.0.0",
+  "description": "Checker to check and track you grades",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mohamedjacks/grade-checker.git"
+  },
+  "dependencies": {
+    "magiceng-card": "1.0.0",
+    "minti_fulkerson": "0.1.4"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohamedjacks/grade-checker/issues"
+  },
+  "homepage": "https://github.com/mohamedjacks/grade-checker#readme"
+}
