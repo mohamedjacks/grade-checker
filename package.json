@@ -1,6 +1,6 @@
 {
   "name": "grade-checker-ab",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Checker to check and track you grades",
   "main": "script.js",
   "scripts": {

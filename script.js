@@ -6,7 +6,7 @@ function checkGrade(score) {
     return "B";
   } else if (score >= 70) {
     return "C";
-  } else if (score >= 60) {
+  } else if (score >= 50) {
     return "D";
   } else {
     return "F";
